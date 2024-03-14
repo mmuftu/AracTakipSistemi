@@ -87,7 +87,7 @@ namespace AracTakipSistemi
                 }
                 else
                 {
-                    Label_mesaj.Text = "Kullanıcı Bulunamadı. Şifre Yada Kullanıcı adınız hatalı";
+                    Label_mesaj.Text = "Kullanıcı Bulunamadı.... Şifre Yada Kullanıcı adınız hatalı";
 
                 }
             }
